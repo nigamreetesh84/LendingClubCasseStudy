@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> with help of exploratory data analysis (EDA), this project seeks to determine the primary causes of loan default. By detecting high-risk loan applicants, the largest online lending marketplace hopes to lessen credit loss.
 
 
 ## Table of Contents
@@ -19,18 +19,17 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- This project serves how to apply EDA to determine the primary causes of loan default. The analysis's conclusions can assist lenders in making wise choices and minimizing credit loss.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -42,7 +41,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@nigamreetesh4] - feel free to contact me!
 
 
 <!-- Optional -->
