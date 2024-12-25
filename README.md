@@ -6,24 +6,18 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
+
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Lending Club wants to understand the driving factors (or driver variables) which are strong indicators of loan default
+- The company can utilize this knowledge for its portfolio and risk assessment
+- Loan data is provided for all loans issued through the time period 2007 to 2011
+- To understanding the types of variables and their significance, a Data Dictionary is provided that describes the meaning of these variables
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- This project serves how to apply EDA to determine the primary causes of loan default. The analysis's conclusions can assist lenders in making wise choices and minimizing credit loss.
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
+<!-- You can include any other section that is pertinent to your problem -->
 ## Technologies Used
 - Python
   - Pandas
@@ -31,17 +25,14 @@
   - Matplotlib
   - Seaborn
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+<!-- You can include any other section that is pertinent to your problem -->
+## Conclusions
+- This project serves how to apply EDA to determine the primary causes of loan default. The analysis's conclusions can assist lenders in making wise choices and minimizing credit loss.
 
 
+<!-- You can include any other section that is pertinent to your problem -->
 ## Contact
-Created by [@nigamreetesh4  @PrakherS] 
+Created by [Reetesh Nigam](https://github.com/nigamreetesh84) &  [Prakher Singhal](https://github.com/PrakherS)
 
 
 <!-- Optional -->
