@@ -41,7 +41,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@nigamreetesh4] - feel free to contact me!
+Created by [@nigamreetesh4  @PrakherS] 
 
 
 <!-- Optional -->
